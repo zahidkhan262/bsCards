@@ -1,0 +1,15 @@
+.genious-heading{text-align: end; margin-right: 50px; margin-top: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.genious-heading h2{font-weight: 700;}
+.genious-heading p{font-size: 13px; color: rgb(221, 77, 77); font-weight: 700;  line-height: 10px; padding-right: 6.5%;}
+
+.social-links .fa-facebook{color: blue;}
+.social-links .fa-twitter{color: red;}
+.social-links .fa-pinterest{color: rgb(163, 71, 71);}
+.social-links .fa-google-plus{color: rgb(197, 62, 62);}
+
+
+
+.col{padding: 0px!important;}
+.card-body{padding: 50px 15px 20px 15px!important; }
+ul{ padding: 0;}
+ul li{display: inline-block; padding-right: 15px;}
